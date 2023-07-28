@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/okversa/static/css/main.6d11f0bb.css",
+    "main.js": "/okversa/static/js/main.4e857b8b.js",
+    "index.html": "/okversa/index.html",
+    "main.6d11f0bb.css.map": "/okversa/static/css/main.6d11f0bb.css.map",
+    "main.4e857b8b.js.map": "/okversa/static/js/main.4e857b8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d11f0bb.css",
+    "static/js/main.4e857b8b.js"
+  ]
+}
